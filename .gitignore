@@ -1,0 +1,7 @@
+.idea/
+env/
+venv/
+*.txt
+*.md5
+*.pkl
+!requirements.txt
